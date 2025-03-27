@@ -1,0 +1,15 @@
+# Ignorar ambiente virtual
+ml_proj/
+venv/
+
+# Ignorar arquivos temporários
+*.pyc
+__pycache__/
+
+# Ignorar datasets grandes (se aplicável)
+data/
+mnist_data/
+#models/
+
+# Ignorar arquivos do sistema
+.DS_Store
