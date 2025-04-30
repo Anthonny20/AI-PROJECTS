@@ -9,6 +9,7 @@ __pycache__/
 # Ignorar datasets grandes (se aplicável)
 data/
 mnist_data/
+Datasets/
 #models/
 
 # Ignorar arquivos do sistema
