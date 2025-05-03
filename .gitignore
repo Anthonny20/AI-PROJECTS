@@ -11,6 +11,7 @@ data/
 mnist_data/
 Datasets/
 #models/
+dieta.md
 
 # Ignorar arquivos do sistema
 .DS_Store
