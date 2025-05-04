@@ -1,2 +1,2 @@
-# ML-PROJECTS
- Projects involving ML
+# AI-PROJECTS
+ Projects involving Artificila Intelligence
