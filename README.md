@@ -1,2 +1,2 @@
 # AI-PROJECTS
- Projects involving Artificila Intelligence
+ Projects involving Artificial Intelligence
